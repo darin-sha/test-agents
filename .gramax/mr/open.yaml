@@ -1,0 +1,9 @@
+creator: darin-sha <dasha.shapovalova7@gmail.com>
+targetBranch: new
+createdAt: '2026-04-23 13:31:04'
+approvers:
+- user: rhoroshilov@gmail.com <rhoroshilov@gmail.com>
+options:
+  deleteAfterMerge: true
+  squash: true
+description: п
