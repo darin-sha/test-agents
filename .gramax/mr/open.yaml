@@ -3,6 +3,7 @@ targetBranch: main
 createdAt: '2026-04-23 13:26:19'
 approvers:
 - user: darin-sha <dasha.shapovalova7@gmail.com>
+  approvedAt: '2026-04-23 13:28:36'
 options:
   deleteAfterMerge: true
   squash: true
